@@ -1,0 +1,8 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100" className="logo-container">
+                <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="30">
+                    <tspan fill="#FF7171">ⵎⴰ</tspan>
+                    <tspan fill="#C2DAB8">ⵙⵏⵙ</tspan>
+                    <tspan fill="#9CA7C6">ⴻⵏ</tspan>
+                </text>
+</svg>
