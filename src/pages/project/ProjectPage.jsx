@@ -13,11 +13,11 @@ import { FaReact, FaMobileAlt } from 'react-icons/fa';
 const ProjectPage = () => {
   return (
     <>
-      <div className='fake-big'>Project</div>
+      <div className='fake-big'>Projects</div>
       <div className='section-about-wrapper section__padding'>
         <article className='section-about-description'>
           <div>
-            <h2 aria-label='About and Skills'>Project</h2>
+            <h2 aria-label='About and Skills'>Projects</h2>
             <p>
                 Here are a few selected personal projects that I have undertaken as a newcomer in the field.
             </p>
