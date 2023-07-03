@@ -96,10 +96,10 @@ const Contact = React.memo(() => {
       showMessage('por favor! enviar un mensaje');
     } else if (email && message) {
       emailjs.sendForm(
-        'service_8y2p74d',
-        'template_dfv0ehs',
+        'fake',
+        'fake',
         form.current,
-        '-TwiK9QmCsw3qsMUm',
+        'feke',
       );
       setSuccess(emailRef);
       setSuccess(TextAreaRef);
